@@ -1,0 +1,7 @@
+/Users/matheuseugeniomoreira/dev/AED 2/pratica 1 pilha/pratica 1 pilha/bin/Debug/pratica 1 pilha.exe.config
+/Users/matheuseugeniomoreira/dev/AED 2/pratica 1 pilha/pratica 1 pilha/bin/Debug/pratica 1 pilha.exe
+/Users/matheuseugeniomoreira/dev/AED 2/pratica 1 pilha/pratica 1 pilha/bin/Debug/pratica 1 pilha.pdb
+/Users/matheuseugeniomoreira/dev/AED 2/pratica 1 pilha/pratica 1 pilha/obj/Debug/pratica 1 pilha.csprojAssemblyReference.cache
+/Users/matheuseugeniomoreira/dev/AED 2/pratica 1 pilha/pratica 1 pilha/obj/Debug/pratica 1 pilha.csproj.CoreCompileInputs.cache
+/Users/matheuseugeniomoreira/dev/AED 2/pratica 1 pilha/pratica 1 pilha/obj/Debug/pratica 1 pilha.exe
+/Users/matheuseugeniomoreira/dev/AED 2/pratica 1 pilha/pratica 1 pilha/obj/Debug/pratica 1 pilha.pdb
